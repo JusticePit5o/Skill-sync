@@ -4,8 +4,7 @@ This is cli application which a user can run to book one on one meetings.
 
 # Project Setup
 
-1. Clone the repository:
-    'git clone https://github.com/23Mandla/booiking_system.git
+1. Clone the repository
 
 2. Create a virtual environment:
 
